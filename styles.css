@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.Post{
+    width: 500px;
+    height: 650px;
+    margin-left: 525px;
+    margin-top: 50px;
+    background-color: white;
+}
+.Photo{
+    width: 25px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px ;
+    float: left;
+    
+}
+.Head{
+    height: 50px;
+    width: 500px;
+    position: relative;
+    
+}
+#SpanBold{
+    font-weight: bold;
+}
+.BulletPoints{
+    
+     float: right;
+     margin-top: 15px;
+     margin-right: 15px;
+     
+    
+    
+}
+.HeadText{
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+img{
+    width: 500px;
+    height: 425px;
+    margin-top: 10px;
+}
+#Bookmark{
+    float: right;
+    
+}
+.Marks{
+    margin-left: 10px;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 10px;
+    margin-right: 15px;
+    
+}
